@@ -2,7 +2,9 @@
 
 Projeto do desafio **Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM**, da DIO.
 
-> **Status:** notebook configurado e materiais de estudo gerados em 14/11/2026. Falta documentar novas perguntas, enviar os arquivos ao repositório público e adicionar o link compartilhável do notebook.
+> **Status (14/11/2026):** notebook configurado e compartilhado; apresentação, mapa mental e este README publicados no repositório público. Faltam registrar as perguntas complementares e anexar as capturas de tela das citações.
+
+**Acesse o notebook:** [Segundo Cérebro — LLMs na Prática](https://notebook.google.com/notebook/4a1bf21b-a06d-4967-8941-b0b4b77323ae/preview).
 
 ## 1. Tema e objetivo
 
@@ -67,18 +69,18 @@ Diretriz de estudo enviada como primeira mensagem do chat do notebook:
 
 ## 5. Materiais gerados no Studio
 
-Materiais criados e verificados na interface do notebook e no visualizador do Windows. **Gerado/baixado não significa que já foi enviado ao GitHub.**
+Materiais criados e verificados na interface do notebook e no visualizador do Windows. Os dois arquivos exportados foram publicados neste repositório.
 
 | Material solicitado | Evidência a incluir | Situação |
 | --- | --- | --- |
-| Mapa mental | `NotebookLM Mind Map.png` — PNG de 4550 × 7738 pixels, aproximadamente 2 MB | Gerado e baixado no Windows; falta enviar ao GitHub |
-| Apresentação de estudos | `LLMs_na_Pratica.pdf` — apresentação de 10 páginas | Gerada, revisada e baixada no Windows; falta enviar ao GitHub |
+| Mapa mental | [`Mapa Mental NotebookLM.png`](./Mapa%20Mental%20NotebookLM.png) — PNG de 4550 × 7738 pixels, aproximadamente 2 MB | Gerado, baixado e publicado no GitHub |
+| Apresentação de estudos | [`LLMs_na_Prática.pdf`](./LLMs_na_Pr%C3%A1tica.pdf) — apresentação de 10 páginas | Gerada, revisada e publicada no GitHub |
 | Guia de estudos ou resumo | Arquivo de texto/PDF, se exportável | Pendente |
 | Conversa com citações | Capturas que mostram a resposta da IA e a abertura das fontes Google Cloud Tech e Hugging Face | Evidências observadas; falta salvar na pasta do projeto e enviar ao GitHub |
 
 ## 6. Notebook compartilhado
 
-**Link de visualização:** [inserir o link após configurar o compartilhamento]
+**Link de visualização:** [Segundo Cérebro — LLMs na Prática (Gemini Notebook)](https://notebook.google.com/notebook/4a1bf21b-a06d-4967-8941-b0b4b77323ae/preview)
 
 Antes de publicar, revisar se todas as fontes podem ser compartilhadas e se o notebook não contém informações pessoais, documentos privados ou materiais cuja distribuição não é permitida.
 
@@ -103,13 +105,13 @@ Antes de publicar, revisar se todas as fontes podem ser compartilhadas e se o no
 - [ ] Perguntas adicionais realizadas, respondidas e documentadas.
 - [x] Mapa mental em PNG baixado no Windows.
 - [x] Slides em PDF baixados no Windows.
-- [ ] Mapa mental em PNG enviado ao GitHub.
-- [ ] Slides em PDF enviados ao GitHub.
+- [x] Mapa mental em PNG enviado ao GitHub.
+- [x] Slides em PDF enviados ao GitHub.
 - [ ] Evidências do chat com citações enviadas ao GitHub.
-- [ ] Notebook compartilhado por link e link registrado aqui.
-- [ ] Repositório público, com nome legível em minúsculas, sem acentos.
+- [x] Link de visualização do notebook registrado aqui.
+- [x] Repositório público, com nome legível em minúsculas, sem acentos.
 - [ ] Link de entrega da DIO aponta para o **repositório**, não para o notebook.
 
 ---
 
-**Princípio do projeto:** a IA ajuda a estudar, mas eu verifico as fontes e mantenho o controle do aprendizado.
+**Princípio do projeto:** a IA ajuda a estudar, mas eu verifico as fontes e mantenho o controle do aprendizado.o aprendizado.
